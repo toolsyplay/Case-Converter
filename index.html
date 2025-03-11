@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Case Converter</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="converter-card">
+            <h1>Word Case Converter</h1>
+            <textarea id="inputText" placeholder="Enter your text here..." rows="4"></textarea>
+            <div class="button-group">
+                <button onclick="convertText('uppercase')">UPPERCASE</button>
+                <button onclick="convertText('lowercase')">lowercase</button>
+                <button onclick="convertText('camel')">camelCase</button>
+                <button onclick="convertText('pascal')">PascalCase</button>
+                <button onclick="convertText('snake')">snake_case</button>
+                <button onclick="convertText('kebab')">kebab-case</button>
+            </div>
+            <div id="result" class="result-container"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
