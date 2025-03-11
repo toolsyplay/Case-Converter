@@ -7,11 +7,11 @@ A **Word Case Converter** is a simple tool that allows you to change the formatt
 
 ## 📌 Available Case Options:
 ✅ **UPPERCASE** – ALL LETTERS IN CAPITALS.  
-✅ **lowercase** – all letters in small letters
-✅ **Title Case** – First Letter of Each Word is Capitalized 
-✅ **Sentence case** – First letter of the sentence is capitalized 
-✅ **camelCase** – First word lowercase, next words capitalized
-✅ **snake_case** – Words separated by underscores
+✅ **lowercase** – all letters in small letters.
+✅ **Title Case** – First Letter of Each Word is Capitalized.
+✅ **Sentence case** – First letter of the sentence is capitalized.
+✅ **camelCase** – First word lowercase, next words capitalized.
+✅ **snake_case** – Words separated by underscores.
 
 ## 🛠️ How to Use  
 1. Paste your text into the input box.
