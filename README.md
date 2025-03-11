@@ -3,7 +3,7 @@
 A **Word Case Converter** is a simple tool that allows you to change the formatting of your text instantly. Whether you need UPPERCASE, lowercase, CamelCase, Title Case, or Sentence case, this tool does it in just one click! 
 
 ### 🚀 Similar Website  
-👉 [Try the Age Calculator](https://toolsyplay.com/case-converter)
+👉 [Try the Word Case Converter](https://toolsyplay.com/case-converter)
 
 ## 📌 Available Case Options:
 ✅ **UPPERCASE** – ALL LETTERS IN CAPITALS.  
